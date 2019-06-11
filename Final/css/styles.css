@@ -1,0 +1,54 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    background-color: #F0F0F0;
+}
+
+header{ 
+    background-color: blueviolet;
+    color:black;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0rem;
+}
+
+h1 {
+    margin-bottom: 0rem;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 2rem;
+  }
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+footer {
+    background-color:blueviolet;
+    color:white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+footer svg {
+    fill: white;
+    width: 3rem;
+    text-decoration: purple;
+    padding-right: 1rem;
+    transition: fill .5s;
+}
+
+footer svg:hover{
+    fill:gold;
+}
+
+a {
+    text-decoration: none;
+}

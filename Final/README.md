@@ -1,3 +1,7 @@
-# libguides
-This webpage will link to the Gallagher Law Library's library guides. 
-https://rydzewski.github.io/libguides/
+This webpage is the section of all the Gallagher Law library library guides. In my header I have added the title "University of Washington" with the Subtitle "Gallagher Law Library". The guides are divided by sections (cards): Legal Research, Legal Topics, Washington State, Foreign & International Law, Law School & Careers, and Legal Writing. Each card has a "Guides" button that allows the user to look at all the guides in that category. There is also a link the the UW Libraries catalog which links to each topic from within the catalog. I have added other links to the Gallagher Law Library website in my navbar including a link to their homepage, hours page, and library visitors page. In my footer, I have added their Twitter, Facebook, and mail accounts.   
+
+Existing website link: https://guides.lib.uw.edu/law/guides
+
+My new website link: https://imt-549-sp19.github.io/challenges-Rydzewski/Final/
+
+I think I improved this website by making each category the main focus of the page and by adding a picture to all of them. I also have a description of what each category has and the link to the UW Libraries catalog. Using JaveScript I was able create a list of all the guides so a user can type in the search bar a guide they would like to view and the list will narrow down based on their input (which the original website does not have). I kept the introduction (giving the author credit) but I moved it to the top of the page under the navbar, making it easier to read. 
